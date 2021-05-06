@@ -63,7 +63,7 @@ app.use((error,req,res,next)=>{
 
 mongoose
   .connect(
-    'mongodb+srv://shubhamdb:6bIYWh157psRcGNN@cluster0-xzglf.mongodb.net/messages?'
+    '...............MONGOOSE_URL.................'
   )
   .then(result => {
     const server =app.listen(8080);
