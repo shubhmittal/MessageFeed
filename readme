@@ -1,0 +1,5 @@
+This is a web application where we are storing blogs if users.
+to run this first install node and mongodb compass on your system
+in backend on line 66 enter your mongoose id and connect with mongodb server
+then run npm install in both backend and front end to install npm modules
+then run npm start in both backend and frontend
