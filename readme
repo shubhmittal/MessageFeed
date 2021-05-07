@@ -3,3 +3,9 @@ to run this first install node and mongodb compass on your system
 in backend on line 66 enter your mongoose id and connect with mongodb server
 then run npm install in both backend and front end to install npm modules
 then run npm start in both backend and frontend
+
+Name: Shubham Mittal (185072)
+      Prateek Pamech (185062), 
+    Course: CSD-327 Software Engineering LAB
+    Date: May 6th, 2021
+    Submitted to: Dr. Dharmendra Prasad Mahto
