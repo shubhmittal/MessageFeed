@@ -8,8 +8,3 @@ then run npm start in both backend and frontend
 o Built a web application that stores user post made on different-different dates.
 o Implemented functionalities like authentication, view post, delete post.
 o Used ExpressJS for REST API.
-
-Name: Shubham Mittal (185072)
-    Course: CSD-327 Software Engineering LAB
-    Date: May 6th, 2021
-    Submitted to: Dr. Dharmendra Prasad Mahto
